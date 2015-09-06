@@ -1,2 +1,2 @@
 # codeigniter
-Repositorio para las pruebas de codeigniter 3 con composer
+Repositorio para las pruebas que se realizan usando el framework codeigniter 3 y Composer
